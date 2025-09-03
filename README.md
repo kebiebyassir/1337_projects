@@ -64,7 +64,7 @@ The **Piscine** is the 4-week bootcamp that introduces students to **C programmi
 - `netpractice` → Networking fundamentals.
 - `cub3d` → Raycasting engine (3D maze game).
 - `miniRT` → Raytracer in C.
-`CPP Modules 00 – 04` → Introduction to C++ (OOP, inheritance, templates, STL).
+- `CPP Modules 00 – 04` → Introduction to C++ (OOP, inheritance, templates, STL).
 
 ---
 
